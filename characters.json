@@ -5,6 +5,12 @@
 			"url":"https://cdn.discordapp.com/attachments/855184483886825524/858393076207976498/boxington.zip",
 			"description":"The one, the only, Boxington. The best box you'll ever see",
 			"subFolder":true
+		},
+		{
+			"name":"garcello-dead",
+			"url":"https://cdn.discordapp.com/attachments/675644714149609475/859916055681171486/Garcello-dead.zip",
+			"description":"Garcello's dead state from Smoke'em out struggle. Good template for custom animations.",
+			"subFolder":true
 		}
 	]
 }
