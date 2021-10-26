@@ -1,0 +1,11 @@
+
+{
+	"charts":[
+		{
+			"name":"D-Sides-Blammed",
+			"url":"https://cdn.discordapp.com/attachments/863683327327600650/899688188975644752/DSide-blammed.zip",
+			"description":"DSides Blammed ported to Super Engine",
+			"subFolder":false
+		}
+	]
+}
